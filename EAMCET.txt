@@ -1,0 +1,9 @@
+ROLL.NO    NAME    GENDER    REGION    DATE OF BIRTH    PERCENTAGE    RANK  
+
+1         MCN	     M	      SVU       03/07/2002       72.395836      3
+ 
+
+2         GPR        F        AU        13/06/2002       88.000000      1
+
+
+3         DSR        M        OU        30/03/2003	 78.00000       2 
